@@ -18,17 +18,12 @@ export default function Hero() {
           その活用余地を見出し、実装し、
           <br />
           経営者を支えられる人材は圧倒的に不足している。
+          <br />
+          <br />
+          Comp Systemsは、外部のAI人材として経営に入り込む。
+          <br />
+          活用余地の洗い出しから定着まで、一気通貫で担う。
         </p>
-        <div className="fade-up delay-3 flex flex-col sm:flex-row gap-4 justify-center">
-          <a
-            href="https://calendly.com/masaya980819/30min"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center px-8 py-4 bg-white text-black text-sm font-semibold rounded-full hover:bg-white/90 transition-colors"
-          >
-            無料相談を申し込む
-          </a>
-        </div>
       </div>
 
       <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-white/40">
