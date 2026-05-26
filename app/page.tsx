@@ -1,4 +1,11 @@
+import type { Metadata } from "next";
 import NavBar from "@/components/NavBar";
+
+export const metadata: Metadata = {
+  title: "Comp Systems | AI活用支援コンサルティング",
+  description: "AI活用の余地の洗い出しから定着まで一気通貫で担う、大阪の中小企業向けコンサルティング。外部のAI人材として経営革新を起こします。",
+  alternates: { canonical: "https://www.compsystems.net" },
+};
 import Hero from "@/components/Hero";
 import Problem from "@/components/Problem";
 import Service from "@/components/Service";
