@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     url: "https://www.compsystems.net",
     title: "Comp Systems | AI活用支援コンサルティング",
     description: "AI活用の余地の洗い出しから定着まで一気通貫。中小企業向けAI活用支援コンサルティング。",
-    images: [{ url: "/masaya-ozaki.jpg", width: 1200, height: 630, alt: "Comp Systems" }],
+    images: [{ url: "/opengraph-image", width: 1200, height: 630, alt: "Comp Systems" }],
   },
   twitter: {
     card: "summary_large_image",
